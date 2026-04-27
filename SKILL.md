@@ -72,4 +72,11 @@ git clone https://github.com/diyin4708-code/吾日三省吾身.git ~/.openclaw/w
 
 《论语·学而》：「吾日三省吾身——为人谋而不忠乎？与朋友交而不信乎？传不习乎？」
 
+两千年前的智慧放在 AI 时代依然适用：
+- 为人谋 → AI 对用户是否尽心？
+- 与朋友交 → 多Agent协作是否守信？
+- 传不习 → 学到的教训是否践行？
+
+每天三次，不过几行代码的事。但写下来、跑起来、改到位——这就是「省」的意义。
+
 Made with ❤️ by [@lingmunaixue](https://x.com/lingmunaixue)
